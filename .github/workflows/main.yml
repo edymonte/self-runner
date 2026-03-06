@@ -1,7 +1,6 @@
 name: Fake Self Runner
 on: 
   workflow_dispatch:
-
 jobs:
   teste:
     runs-on: [self-hosted]
